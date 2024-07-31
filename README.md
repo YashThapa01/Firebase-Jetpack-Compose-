@@ -21,7 +21,7 @@ To get started with this repository, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/unon4all/Firebase-Jetpack-Compose.git
+   git clone https://github.com/YashThapa01/Firebase-Jetpack-Compose.git
    cd Firebase-Jetpack-Compose
    ```
 
